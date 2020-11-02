@@ -4,13 +4,13 @@
 
 ## Atividades do Bootcamp
 
-### Lógica de programação essencial 
+### Lógica de programação essencial  :heavy_check_mark:
 
-### Introdução ao Git e ao GitHub
+### Introdução ao Git e ao GitHub :heavy_check_mark:
 
-### Introdução a criação de websites com HTML5 e CSS3 
+### Introdução a criação de websites com HTML5 e CSS3  :heavy_check_mark:
 
-### Recriando a página do Instagram
+### Recriando a página do Instagram:heavy_check_mark:
 
 ### Fundamentos de arquitetura de sistemas 
 
