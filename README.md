@@ -10,13 +10,13 @@
 
 ### Introdução a criação de websites com HTML5 e CSS3  :heavy_check_mark:
 
-### Recriando a página do Instagram:heavy_check_mark:
+### Recriando a página do Instagram :heavy_check_mark:
 
-### Fundamentos de arquitetura de sistemas 
+### Fundamentos de arquitetura de sistemas :heavy_check_mark:
 
-### JavaScript ES6 essencial
+### JavaScript ES6 essencial :heavy_check_mark:
 
-### Recriando a interface do Netflix
+### Recriando a interface do Netflix :heavy_check_mark:
 
 ### Introdução a programação
 
